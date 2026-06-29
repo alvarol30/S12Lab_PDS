@@ -11,7 +11,7 @@ public class LaptopBasica extends Laptop{
 
     @Override
     public void ejecutarPrueba(){
-        System.out.println("Corriendo programas en una Laptop Basica");
+        System.out.println("CORRIENDO PROGRAMAS EN UNA LAPTOP BASICA");
         System.out.println("Laptop Basica");
         System.out.println(this);
     }

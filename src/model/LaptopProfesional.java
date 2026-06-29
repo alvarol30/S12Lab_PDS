@@ -11,7 +11,7 @@ public class LaptopProfesional extends Laptop{
 
     @Override
     public void ejecutarPrueba(){
-        System.out.println("Corriendo programas en una Laptop Profesional");
+        System.out.println("CORRIENDO PROGRAMAS EN UNA LAPTOP PROFESIONAL");
         System.out.println("Laptop para Profesional");
         System.out.println(this);
     }

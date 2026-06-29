@@ -10,7 +10,7 @@ public class LaptopGamer extends Laptop{
     }
     @Override
     public void ejecutarPrueba() {
-        System.out.println("Corriendo programas en una Laptop para Gamer");
+        System.out.println("CORRIENDO PROGRAMAS EN UNA LAPTOP GAMER");
         System.out.println("Laptop para Gamer");
         System.out.println(this);
     }
